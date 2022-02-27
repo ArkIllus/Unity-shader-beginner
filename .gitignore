@@ -1,0 +1,13 @@
+*.meta
+*.asset
+/Editor/
+/Genshin/
+/Materials/
+/MMD4Mecanim/
+/Models/
+/Prefabs/
+/Presets/
+/Scenes/
+/Settings/
+/Textures/
+/TutorialInfo/
